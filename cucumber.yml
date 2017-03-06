@@ -1,0 +1,3 @@
+skip_ignorables:   --tags ~@wip --tags ~@nyi --tags ~@pending --tags ~@ignore
+
+default: TEST_ENV=default.yml -f pretty -x -p skip_ignorables
