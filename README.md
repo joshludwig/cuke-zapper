@@ -1,4 +1,2 @@
 # cuke-zapper
-Example security testing that leverages your functional ruby cucumber tests
-
-##Install
+Example of how to leverage functional ruby cucumber tests for security testing
