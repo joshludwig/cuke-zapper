@@ -8,5 +8,4 @@ end
 
 After('@zap') do
   @browser.close
-  # Zap::start_active_scan
 end
